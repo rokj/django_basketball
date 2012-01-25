@@ -34,7 +34,7 @@ TIME_ZONE = 'Europe/Ljubljana'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
-LANGUAGE_CODE = 'sl'
+LANGUAGE_CODE = 'en'
 
 ugettext = lambda s: s
 
