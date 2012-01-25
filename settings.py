@@ -61,7 +61,7 @@ else:
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
 if DEBUG == True:
-    MEDIA_ROOT = '/djange_basketball/static/'
+    MEDIA_ROOT = '/django_basketball/static/'
 else:
     MEDIA_ROOT = ''
 
